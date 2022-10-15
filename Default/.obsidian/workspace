@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "3ddcdee8341e8887",
+    "type": "split",
+    "children": [
+      {
+        "id": "569b889551162b48",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Games/Starter Commanders.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56b82c79479c9289",
+    "type": "split",
+    "children": [
+      {
+        "id": "4804986323f6c3b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "736e8675ed0fbf2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "63ce1cebdd65ff43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c22abb90b2d562a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "564737f5eb8a0855",
+    "type": "split",
+    "children": [
+      {
+        "id": "144dccf26806119c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82531aabee2eff52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Games/Starter Commanders.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "365dc3855477e490",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Games/Starter Commanders.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c61afe429698d36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "24651b2f9f2089dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Games/Starter Commanders.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "569b889551162b48",
+  "lastOpenFiles": [
+    "Games/Itmandra.md",
+    "Games/Block Chrono.md",
+    "Games/Starter Commanders.md",
+    "Untitled.md",
+    "Documentation/Sagittarius README.md",
+    "Documentation/Sagc.md",
+    "media/LOGO_SAG_Bluv3.svg.md"
+  ]
+}
