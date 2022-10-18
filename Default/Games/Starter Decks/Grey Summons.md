@@ -7,7 +7,7 @@
 #### Slightly Magical Sword
 ##### Grey Summon 1/1 Living Weapon
 ##### *When a summon enters the battlefield: target 1 other summon you control; it gains +1 power. 
-##### Equip: the equipped summon has +1 power and +1 health and gains this card's other abilities.*
+##### Equip: the equipped summon has +2 power and +1 health.*
 
 #### Reinforce
 ##### Grey Spell
@@ -38,7 +38,7 @@
 #### Legacy Armor
 ##### Grey Spell
 ##### *Equip: equipped summon has +1 power and +2 health.
-##### When the summon this card is equipped to is destroyed: equip this card to a summon you control.*
+##### When the summon this card is equipped to is destroyed: equip this card to an adjancent summon you control.*
 
 
 ### Rank 3

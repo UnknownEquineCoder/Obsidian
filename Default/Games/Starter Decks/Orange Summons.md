@@ -32,7 +32,7 @@
 
 #### Mad Smith
 ##### Orange Summon, 2/2 Warrior
-##### *When this summon is cast, fetch 1 card with equip and either add it to your hand or equip it to a summon you control.
+##### *When this summon is cast: fetch 1 card with equip and either add it to your hand or equip it to a summon you control.
 ##### When you equip a card, inflict 1 damage to any target.*
 
 #### Whip of Italaxian
