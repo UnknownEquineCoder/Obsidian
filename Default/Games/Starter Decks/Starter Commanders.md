@@ -4,7 +4,7 @@
 
 ### The Steel Knight
 #### [Counters]
-#### Call 3
+#### Draw 3
 #### GREY
 
 #### Passive -- Charge:
@@ -20,7 +20,7 @@
 ##### A summon you control gains +1/+0. If it's grey, it gains +2/+0 instead.
 
 #### [0 Counter] Reinforcements:
-##### For the next 2 turns, this commander gains +1 call.
+##### For the next 2 turns, this commander gains +1 draw power.
 
 #### [5 Counters] Call of the champion:
 ##### Move this card to your field as a 5/5 summon with indestructible until the end of this turn. It can't be removed from the field.
@@ -30,7 +30,7 @@
 
 ### Flame Channeler
 #### [Counter]
-#### Call 3
+#### Draw 3
 #### RED
 
 #### Passive -- Growing flame:
@@ -40,7 +40,7 @@
 ##### A summon gains +2/+0. If it wasn't red, it gets +2/-1 and becomes red in addition to its other colours.
 
 #### [4 Counters] Charged:
-##### This commander inflicts 2 damage to any summon and gains +2 call.
+##### This commander inflicts 2 damage to any summon and gains +2 draw value.
 
 #### [-XX Counters] Engulfing heat:
 ##### This commander inflicts X damage to all summons.
@@ -63,6 +63,26 @@
 #### [8 Counters] Rampage:
 #### You can conduct an additional battle phase this turn.
 ##### (Additional battle phases come in sequence after the first battle phase. At the start of each additional battle phase, untap all summons you control.).
+
+
+## Control Commanders
+
+### Su Berasti, the Abjurer 
+#### [12 Mana]
+#### Exile 3
+#### BLUE
+
+#### Passive -- Forbidden Knowledge: 
+##### At the start of each opponent's draw phase: exile the top card of their deck, also replenish 1 for each exiled card your opponent owns.
+
+#### [XX Mana] Mastery of the Unkown:
+##### During this turn, you may cast 1 exiled card your opponent owns with rank X.
+
+#### [2 Counters] Divert:
+##### Target one card on the field: return it to the hand, then exile cards equal to its rank.
+
+#### [18 Counters] Alchemical Trade:
+##### Exchange each player's deck and exiled cards they own.
 
 
 ### Colour Quests + Unlocks

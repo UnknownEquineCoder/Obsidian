@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73cb3856a13526ea",
+        "id": "949d1b9e642e0d74",
         "type": "tabs",
         "children": [
           {
-            "id": "44bf4c978b03f24f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Games/Starter Decks/Grey Summons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69194ffae0ea3904",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Games/Starter Decks/Red Summons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3af4d94fe53407e",
+            "id": "f3f031ba3f318e2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Starter Decks/Grey Summons.md",
+                "file": "Games/Starter Decks/Starter Commanders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Starter Decks/Grey Summons.md",
+                "file": "Games/Starter Decks/Starter Commanders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Games/Starter Decks/Grey Summons.md"
+                "file": "Games/Starter Decks/Starter Commanders.md"
               }
             }
           }
@@ -163,16 +139,16 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "44bf4c978b03f24f",
+  "active": "f3f031ba3f318e2b",
   "lastOpenFiles": [
+    "Games/Block Chrono.md",
+    "Games/Starter Decks/Starter Commanders.md",
+    "Games/Itmandra.md",
     "Games/Starter Decks/Red Summons.md",
     "Games/Starter Decks/Grey Summons.md",
-    "Games/Starter Decks/Starter Commanders.md",
     "Games/Starter Decks/Orange Summons.md",
     "Games/Starter Decks/note.md",
     "Untitled.md",
-    "Games/Itmandra.md",
-    "Games/Block Chrono.md",
     "Untitled 1.md",
     "Documentation/Sagittarius README.md"
   ]
