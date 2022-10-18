@@ -28,7 +28,7 @@
 
 #### Wild Boar
 ##### Orange Summon, 4/3 Beast
-##### *Berserker (This summon cannot block. Whenever damage is dealt to it, it gains +1 power. When it dies, you take damage equal to its power).*
+##### *Berserker (This summon cannot block and must attack if able. Whenever damage is dealt to it, it gains +1 power. When it dies, you take damage equal to its power).*
 
 #### Mad Smith
 ##### Orange Summon, 2/2 Warrior
