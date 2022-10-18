@@ -48,14 +48,14 @@
 
 ### Surunn's Beast
 #### [Counter]
-#### Call 3
+#### Draw 3
 #### ORANGE
 
 #### Passive -- Devour: 
 ##### Whenever one or more summons are destroyed, put a counter on this commander for each.
 
 #### [0 Counter] Cannibalism:
-##### Destroy 1 summon your control; draw 1 card.
+##### Destroy 1 summon your control; draw 1.
 
 #### [3 Counters] Feed:
 ##### All summons in your hand gain +1/+1.
