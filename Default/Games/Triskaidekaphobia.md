@@ -82,7 +82,7 @@
 ##### Rank 1
 ##### Purple Summon 0/1 Worm
 ##### *Sudden.
-##### *When this summon is cast: you can target one summon your opponent controls; take control of it as long as this card is on the field.
+##### *When this summon is cast: you can target one summon your opponent controls; take control of it as long as this card is on the field, but negate its effects.
 ##### Attacks and effects that would target this card cannot be activated until you control a card owned by your opponent.*
 
 #### Change of Heart
@@ -119,7 +119,7 @@
 ##### Purple Summon 0/0 Slime
 ##### *Target one summon your opponent controls: place this card on the field and equip that target to this card.
 ##### Gains power and health equal to the total power and health of all summons equipped to it.
-##### Target a summon with different colours to those of the summons equipped to this card: sacrifice a card: equip that target to this card.*
+##### During your opponents turn, you can target a summon they control: equip it to this card, then take another card equipped to it and place it on your opponent's field. If it's a summon, it cannot attack this turn.*
 
 ===============================================================
 
