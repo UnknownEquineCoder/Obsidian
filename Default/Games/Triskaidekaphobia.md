@@ -14,7 +14,7 @@
 ##### You may only cast cards whose total rank doesn't exceed thirteen this way during the game.
 
 #### Brainwash:
-##### Target thirteen cards from the graveyards: for each card, either shuffle it into its owner's deck, exile it or return it tapped to the field.
+##### Target thirteen cards from the graveyards: for each card, either exile it or shuffle it into its owner's deck. Then, return up to one card from either graveyard to the field.
 
 #### Triskaidekaphilia:
 ##### If exactly thirteen cards are on the field, you win the game.
