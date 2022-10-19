@@ -68,25 +68,48 @@
 ## Control Commanders
 
 ### Su Berasti, the Abjurer 
-#### [12 Mana]
+#### [8 Mana]
 #### Suspend 3
 #### BLUE
 
 #### Passive -- Forbidden Knowledge: 
-##### At the start of each opponent's draw phase: exile the top card of their deck, also replenish 1 for each exiled card your opponent owns.
+##### At the start of each player's draw phase: exile the top card of their deck, also replenish 1 for each exiled card your opponent owns.
 
 #### Passive -- Exile Mastery: 
 ##### During each turn, you may cast one card you own from the exile.
 
 #### [XX Mana] Mastery of the Unkown:
-##### During this turn, you may cast one exiled card your opponent owns with rank X.
+##### Target one exiled spell: shuffle it into the deck, and if you do, cast a copy of it.
 
-#### [2 Mana] Divert:
+#### [3 Mana] Divert:
+##### Sudden. (You may cast this ability during either player's turn)
 ##### Target one card on the field: return it to the hand, then suspend equal to its rank.
 
 #### [18 Mana] Alchemical Trade:
 ##### Exchange each player's deck and exiled cards they own.
 
+
+### Alluring Queen
+#### [30 HP]
+#### Suspend 3
+#### Purple
+
+#### Passive -- Love Seizure: 
+##### During each turn, the first your opponents casts a summon: take control of it until the end of your next turn.
+
+#### Passive -- Exile Mastery: 
+##### During each turn, you may cast one card you own from the exile.
+
+#### [XX HP] Seduction:
+##### Target one revealed card in your opponent's hand or in exile that they own of rank X: add it to your hand.
+
+#### [3 HP] Resentful Desire:
+##### Target two summons your opponent controls: they fight each other.
+
+#### [3 HP] In your mind:
+##### Choose one:
+##### - Target cards in your opponent's graveyard up to the number of cards in their hand: exile those cards, also your opponents reveals their hand.
+##### - Target exiled cards your opponent owns up to the number of cards in their hand: return those cards to the graveyard, also your opponents reveals their hand.
 
 
 ### Colour Quests + Unlocks
