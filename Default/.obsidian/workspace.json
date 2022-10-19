@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce2b2fcd17669c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Games/Triskaidekaphobia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Starter Decks/Starter Commanders.md",
+                "file": "Games/Triskaidekaphobia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Starter Decks/Starter Commanders.md",
+                "file": "Games/Triskaidekaphobia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Games/Starter Decks/Starter Commanders.md"
+                "file": "Games/Triskaidekaphobia.md"
               }
             }
           }
@@ -139,17 +152,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f3f031ba3f318e2b",
+  "active": "ce2b2fcd17669c91",
   "lastOpenFiles": [
-    "Games/Block Chrono.md",
-    "Games/Starter Decks/Starter Commanders.md",
     "Games/Itmandra.md",
-    "Games/Starter Decks/Red Summons.md",
+    "Games/Block Chrono.md",
+    "Games/Triskaidekaphobia.md",
+    "Games/Starter Decks/Starter Commanders.md",
     "Games/Starter Decks/Grey Summons.md",
     "Games/Starter Decks/Orange Summons.md",
+    "Games/Starter Decks/Red Summons.md",
     "Games/Starter Decks/note.md",
     "Untitled.md",
-    "Untitled 1.md",
-    "Documentation/Sagittarius README.md"
+    "Untitled 1.md"
   ]
 }

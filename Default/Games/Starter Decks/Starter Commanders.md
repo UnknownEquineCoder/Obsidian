@@ -69,20 +69,24 @@
 
 ### Su Berasti, the Abjurer 
 #### [12 Mana]
-#### Exile 3
+#### Suspend 3
 #### BLUE
 
 #### Passive -- Forbidden Knowledge: 
 ##### At the start of each opponent's draw phase: exile the top card of their deck, also replenish 1 for each exiled card your opponent owns.
 
+#### Passive -- Exile Mastery: 
+##### During each turn, you may cast one card you own from the exile.
+
 #### [XX Mana] Mastery of the Unkown:
-##### During this turn, you may cast 1 exiled card your opponent owns with rank X.
+##### During this turn, you may cast one exiled card your opponent owns with rank X.
 
-#### [2 Counters] Divert:
-##### Target one card on the field: return it to the hand, then exile cards equal to its rank.
+#### [2 Mana] Divert:
+##### Target one card on the field: return it to the hand, then suspend equal to its rank.
 
-#### [18 Counters] Alchemical Trade:
+#### [18 Mana] Alchemical Trade:
 ##### Exchange each player's deck and exiled cards they own.
+
 
 
 ### Colour Quests + Unlocks
