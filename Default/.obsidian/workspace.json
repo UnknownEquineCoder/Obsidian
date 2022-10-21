@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "949d1b9e642e0d74",
+        "id": "62cbd412c2b2f22a",
         "type": "tabs",
         "children": [
           {
-            "id": "922c0495968b14df",
+            "id": "00c39e4629e3390e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -139,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "922c0495968b14df",
+  "active": "00c39e4629e3390e",
   "lastOpenFiles": [
-    "Games/Starter Decks/Starter Commanders.md",
-    "Games/Triskaidekaphobia.md",
     "Games/Block Chrono.md",
     "Games/Itmandra.md",
-    "Games/Starter Decks/Orange Summons.md",
-    "Games/Starter Decks/Purple Summons.md",
-    "Games/Starter Decks/Red Summons.md",
-    "Games/Starter Decks/Grey Summons.md",
-    "Games/Starter Decks/note.md",
-    "Untitled.md"
+    "Project/Data Transfer, Storage and Communication techniques, a feasibility analysis.md",
+    "src/client/src/App.vue.md",
+    "Untitled 1.md",
+    "Documentation/Sagc.md",
+    "Documentation/SSR.md",
+    "Games/Triskaidekaphobia.md",
+    "Games/Starter Decks/Starter Commanders.md",
+    "Games/Starter Decks/Orange Summons.md"
   ]
 }

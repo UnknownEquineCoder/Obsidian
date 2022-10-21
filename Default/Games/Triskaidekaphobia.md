@@ -38,21 +38,50 @@
 ##### Blue Summon 1/2 Mage
 ##### *When this summon is cast: your opponent chooses two non-sudden spells from their deck and exiles them.*
 
+#### Ponder
+##### Rank 1
+##### Blue Spell
+##### *Look at the first four cards of your deck: add one to your hand, exile one, bury one and dematerialise one.*
 
+#### Doubt
+##### Rank 1
+##### Blue Spell
+##### *Sudden.
+##### When your opponent would cast a non-legendary summon: banish two cards from your graveyard; counter it.*
 
 #### Mirage Waterfall
 ##### Rank 2
 ##### Blue Summon 0/2 Elemental Wall
 ##### *Defender (This summon cannot attack).
-##### Sudden. (You may cast this card from your hand during either player's turn)
+##### Sudden. (You may cast this card during either player's turn).
 ##### Gains +1 health for each exiled spell you own.
 
 #### Mirage Fae
 ##### Rank 2
-##### Blue Summon 2/1
+##### Blue Summon 2/1 Fairy
 ##### *Sudden.
-##### (Shuffle an exiled spell you own into the deck): cast this summon, then apply the effects of that spell as if they were this card's.*
+##### Shuffle an exiled spell you own into the deck; cast this summon, then apply the effects of that spell as if they were this card's.*
 
+#### Deep Sleep
+##### Rank 2
+##### Blue Spell
+##### *Sudden.
+##### When an opponent's summon declares an attack: target up to two summon on the field; tap them.*
+
+#### Dive Deeper
+##### Rank 2
+##### Blue Spell
+##### *Look at the top 3 cards of each player's deck: bury three, exile two and add one to your hand.*
+
+#### Mass Hex
+##### Rank 3
+##### Legendary Blue Spell
+##### *All summons on the field become 0/1 blue \` Lifeless Shells \` with Dematerialise.*
+
+#### Cantrip Wizard
+##### Rank 3
+##### Blue Summon 0/1 Mage
+##### *When you cast a rank 1 or higher spell: materialise a \` Simple Cantrip \` to your hand. (It's a rank 0 blue spell with "Choose one: - mill one; - suspend one; - draw value one;")*
 
 ## Purple Cards
 
@@ -137,3 +166,8 @@
 ##### Rank 3
 ##### Purple Spell
 ##### *Target a card in your opponent's graveyard: Exile all cards with the same name as that card from their graveyard, hand and deck.*
+
+#### Time Travel
+##### Rank 3
+##### Legendary Blue Spell
+##### *Shuffle all cards on the field, in both graveyards and in exile into their owner's decks. You take another turn after this one.*
